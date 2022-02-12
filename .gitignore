@@ -1,0 +1,5 @@
+# npm packages
+/node_modules/*
+
+# 用Mac会自动生成
+.DS_Store
