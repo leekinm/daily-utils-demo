@@ -1,13 +1,14 @@
 {
   "name": "daily-utils",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "utility, development",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "leekinm",
+  "homepage": "https://github.com/leekinm/daily-utils",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.29.1"
